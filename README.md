@@ -1,7 +1,7 @@
 Sample project to monitor Canadian inflation. 
 
 "inflation_datatable.py" -- This program automatically creates and updates the CPI data table with breakdown of the inflation components.
-![image](https://github.com/user-attachments/assets/b2f49394-5afc-4e40-86d3-ec866b4bdefc)
+![image](https://github.com/user-attachments/assets/dab16a38-6aaa-4f09-8438-424e24a83951)
 
 
 "inflation_charts.py" -- Simple charts showing the annual rate of change for headline CPI, mortgage interest CPI, and headline excluding mortgage interest payment.
