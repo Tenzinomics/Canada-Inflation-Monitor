@@ -1,4 +1,4 @@
-<h1>Canada Inflation Monotor</h1> 
+<h1>Canada Inflation Monitor</h1> 
 
 <ul>
   <li>
